@@ -1,0 +1,4 @@
+django-polymorphic==1.1
+django-allauth==0.28.0
+oauthlib==2.0.0
+Pillow==4.0.0
