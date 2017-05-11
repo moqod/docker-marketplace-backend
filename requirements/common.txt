@@ -7,5 +7,7 @@ django-filter==1.0.2
 oauthlib==2.0.0
 Pillow==4.0.0
 coreapi==2.3.0
+coreapi-cli==1.0.6
 pygments==2.2.0
 markdown==2.6.8
+uber_rides==0.4.1
